@@ -1,6 +1,8 @@
 
 # DSA Java Practice
 
+Java DS & Algorithms practice — collection of implementations for arrays, 2D arrays, recursion and string problems (completed during an Instarr internship).
+
 This repository contains a collection of Java practice programs implementing common data-structure and algorithm exercises. The code is grouped by topic to make navigation simple (arrays, 2D arrays, recursion, strings, and a few miscellaneous practice files).
 
 ## Table of contents
@@ -15,7 +17,7 @@ This repository contains a collection of Java practice programs implementing com
 
 These practice exercises were completed during a training internship at Instarr Enterprises (Instarr Informatics Pvt Ltd) in Aug 2023. The internship covered algorithms and small projects using C, Java, and Python; the code in this repository contains Java implementations and practice programs completed during/after that training period.
 
-![Internship Certificate](./Instarr.png.png)
+![Internship Certificate](Instarr.png)
 
 ## Repository structure
 
@@ -34,6 +36,23 @@ Example notable files:
 - `Strings/`: `anagram.java`, `countVowelsConsonants.java`, `non_repeatingChar.java`, `palindrome.java`, `reverseString.java`
 
 If any listed files are outdated or you want to rename/organize them differently, I can help automate that refactor.
+
+## Description
+
+A curated collection of Java practice programs and algorithm exercises (arrays, 2D arrays, recursion, strings, etc.), implemented while training at Instarr Enterprises. Includes example solutions, pattern programs, and simple runnable files to help learn core data structures and algorithms.
+
+## What you'll find (highlights)
+
+- Implementations: sliding window, two-pointer, prefix-sum, rotate, remove-duplicates, subarray sum
+- 2D array: spiral traversal, transpose, row/column sums, wave print
+- Recursion: factorial, fibonacci, sequence printing, sum examples
+- Strings: anagram check, palindrome, non-repeating character, vowel/consonant counts
+- Pattern and utility exercises (top-level `.java` files)
+- Internship context: completed during training at Instarr Enterprises (certificate included as `Instarr.png`)
+
+## Suggested GitHub topics
+
+`java`, `algorithms`, `data-structures`, `dsa`, `interview-prep`, `practice`, `arrays`, `recursion`, `strings`
 
 ## Build & run
 
