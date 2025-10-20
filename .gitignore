@@ -1,0 +1,13 @@
+# Ignore Java class files
+*.class
+
+# IntelliJ / VSCode / Eclipse
+.idea/
+*.iml
+.vscode/
+*.project
+*.classpath
+
+# OS files
+Thumbs.db
+Desktop.ini
